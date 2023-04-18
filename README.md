@@ -24,3 +24,4 @@ This project demonstrates in full how to create a fullstack E-Commerce using [Re
 - Middleware Upload File to upload files from user input files.
 - Middleware to authenticate by creating a Token from [JWT](https://jwt.io/).
 - Payment Gateways using [Midtrans](midtrans.com).
+- Deploy Front End can browse https://waysbean-eight.vercel.app/
